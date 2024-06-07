@@ -1,3 +1,3 @@
 # PortfolioWebsite
 
-Link : https://github.com/Nishkarsh76/PortfolioWebsite.git
+Link : https://nishkarsh76.github.io/PortfolioWebsite/
