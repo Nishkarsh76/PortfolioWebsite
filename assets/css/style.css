@@ -1098,8 +1098,8 @@ section .container {
 }
 
 .portfolio-wrap img {
-    max-width: 100%;    /* Ensures the image fits within its container */
-    height: 150px;      /* Sets a fixed height for consistency */
-    object-fit: contain; /* Ensures the image retains its aspect ratio */
+    max-width: 100% !important;  /* Ensure it fits within its container */
+    height: 150px !important;    /* Fixed height for uniformity */
+    object-fit: contain !important; /* Ensure aspect ratio is maintained */
 }
 
